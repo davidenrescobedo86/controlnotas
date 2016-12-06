@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/controlnotas/src/AppBundle/Controller/EstudianteController.php</file>
+            <file>file:/C:/xampp/htdocs/controlnotas/app/Resources/views/Estudiantes/estudianteEdit.html.twig</file>
+            <file>file:/C:/xampp/htdocs/controlnotas/src/AppBundle/Controller/DefaultController.php</file>
+            <file>file:/C:/xampp/htdocs/controlnotas/app/Resources/views/Index/index.html.twig</file>
+            <file>file:/C:/xampp/htdocs/controlnotas/app/config/routing.yml</file>
+            <file>file:/C:/xampp/htdocs/controlnotas/app/Resources/views/Estudiantes/indexEstudiantes.html.twig</file>
+        </group>
+    </open-files>
+</project-private>
